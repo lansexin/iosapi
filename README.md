@@ -23,5 +23,5 @@ createProvision()     4.生成profile，并下载mobileprovision文件。
 
 里面的内容都有注释，希望对你有帮助！
 
-有现成案例：www.aisignapp.com，可以测试
+有现成案例：http://www.aisignapp.com
 若需要购买代码也可以联系：208685859
